@@ -19,3 +19,5 @@
 #con el comando git remote -v : vemos que se conecta a mi rama remota
 #origin  git@hub.com:pedrinchixx/portafolio-m2.git (fetch)
 #origin  git@hub.com:pedrinchixx/portafolio-m2.git (push)
+#git push origin main/master: subimos los cambios al repositorio remoto(githubg)
+#ultima modificacion
