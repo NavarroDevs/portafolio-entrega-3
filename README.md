@@ -1,5 +1,5 @@
 #Proyecto de entrega m2
-## requerimientos:
+#requerimientos:
 
 #Cuenta de github:
 
@@ -15,9 +15,8 @@
 
 #git log
 
-# agrego el repositorio remoto con : git remote add origin git@hub.com:pedrinchixx/#portafolio-m2.git
+#agrego el repositorio remoto con : git remote add origin git@hub.com:pedrinchixx/#portafolio-m2.git
 #con el comando git remote -v : vemos que se conecta a mi rama remota
 #origin  git@hub.com:pedrinchixx/portafolio-m2.git (fetch)
 #origin  git@hub.com:pedrinchixx/portafolio-m2.git (push)
 #git push origin main/master: subimos los cambios al repositorio remoto(githubg)
-#ultima modificacion
