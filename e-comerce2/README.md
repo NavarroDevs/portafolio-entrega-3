@@ -46,5 +46,9 @@ para el login los usuarios y claves son:
     nombre: "Carlos",
     password: "123456",
     
-    
+        https://github.com/pedrinchixx/porta-m3/tree/main/e-comerce2
+
+https://github.com/pedrinchixx/porta-m3.git
+
+https://github.com/pedrinchixx/porta-m3
 
